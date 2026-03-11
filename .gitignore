@@ -1,0 +1,10 @@
+build/
+bin/
+*.o
+*.exe
+*.out
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db

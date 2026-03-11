@@ -1,0 +1,3 @@
+user string Alice
+mylist list 
+counter string 1
